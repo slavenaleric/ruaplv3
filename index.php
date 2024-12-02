@@ -69,7 +69,7 @@ register.</p>
 // DB connection info 
 // TODO: Update the values for $host, $user, $pwd, and $db //using the values you retrieved 
 earlier from the Azure Portal. $host = "value of Data Source"; 
-$host = "slavenaleric.azurewebsites.net"; 
+$host = "slavenaleri-server.mysql.database.azure.com"; 
 $user = "gvvlvivwcq"; 
 $pwd = "3OFFT6TB8ASy$0DU"; 
 $db = "slavenaleric-database"; 
